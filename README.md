@@ -59,7 +59,7 @@ Find The Latest trending and now playing movies and tv shows with Movie app. The
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/184968916-60bef70a-3f4f-4d63-b7a2-3ab1d94de020.jpg">
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/184968927-2c06609a-e0c3-4cef-98d2-b2dbee35e2e8.jpg">
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/184968935-81626b27-4a8a-4099-ad4c-4bd964936a51.jpg">
-<img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/184968942-553b93b4-fe7c-435a-b6ad-07c4f175e79a.jpg">
+<img width="120" src="https://user-images.githubusercontent.com/88210924/184968942-553b93b4-fe7c-435a-b6ad-07c4f175e79a.jpg">
 
 
 # Contact me
