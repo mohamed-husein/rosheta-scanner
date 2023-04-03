@@ -1,6 +1,7 @@
 # Rosheta Scanner
 
-Find The Latest trending and now playing movies and tv shows with Movie app. The app contains all info about movies . find similar movies or shows, Browse all genres, video trailers, backdrops, logos, and posters.
+App Locating suitable drug in nearest pharmacy using firebase as database and cubit as state management and
+Google Maps.
 
 <br/>
 
