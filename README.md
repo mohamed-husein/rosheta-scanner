@@ -14,30 +14,29 @@ Find The Latest trending and now playing movies and tv shows with Movie app. The
 
 
 **Packages used:**
-- hexcolor: ^2.0.5
-- bloc: ^7.2.1
-- flutter_bloc: ^7.3.1
-- stop_watch_timer: ^1.3.1
-- expansion_tile_card: ^2.0.0
-- shared_preferences: ^2.0.13
-- image_picker: ^0.8.5
-- flutter_phoenix: ^1.0.0
-- flutter_svg: ^1.1.0
-- google_mlkit_text_recognition: ^0.3.0
-- firebase_core: ^1.14.1
-- firebase_auth: ^3.3.14
-- cloud_firestore: ^3.1.12
-- firebase_storage: ^10.2.14
-- #google map
-- geolocator: ^8.2.1
-- google_maps_flutter: ^2.1.6
-- material_floating_search_bar: ^0.3.7
-- uuid: ^3.0.6
-- flutter_polyline_points: ^1.0.0
-- dio: ^4.0.6
-- geocoding: ^2.0.4
-- google_maps_pick_place: ^0.8.7
-- location: ^4.2.0
+- hexcolor
+- bloc
+- flutter_bloc
+- stop_watch_timer
+- expansion_tile_card
+- shared_preferences
+- image_picker
+- flutter_phoenix
+- flutter_svg
+- google_mlkit_text_recognition
+- firebase_core
+- firebase_auth
+- cloud_firestore
+- firebase_storage
+- geolocator
+- google_maps_flutter
+- material_floating_search_bar
+- uuid
+- flutter_polyline_points
+- dio:
+- geocoding
+- google_maps_pick_place
+- location
 
 ## Screen Shots.
 
